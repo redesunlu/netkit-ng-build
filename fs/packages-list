@@ -16,6 +16,7 @@ curl
 dnsmasq
 dnsutils
 ebtables
+elinks
 emacs23-nox
 file
 freeradius
@@ -34,12 +35,14 @@ lua5.1
 lxc
 lxctl
 lynx
+mc
 mdns-scan
 mime-support
 mingetty
 minicom
 mrd6
 mtr-tiny
+nano
 ndisc6
 netcat6
 netmask
@@ -83,6 +86,8 @@ tshark
 ucarp
 vim
 vlan
+w3m
+wget
 xl2tpd
 zsh
 # smcroute -- removed because of smcroute conflict
