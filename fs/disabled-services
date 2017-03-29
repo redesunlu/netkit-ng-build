@@ -5,12 +5,16 @@ cron
 dbus
 dnsmasq
 ebtables
+exim4
 freeradius
 ipsec
+isc-dhcp-server
 lvm2
 lxc
 mrd6
 mtab.sh
+nfs-common
+nfs-kernel-server
 openbsd-inetd
 openvpn
 pdns-recursor
@@ -20,10 +24,13 @@ quagga
 radvd
 rdnssd
 rpcbind
+samba
 screen-cleanup
 snmpd
+snort
 squid
 ssh
+ulogd
 x11-common
 xl2tpd
 
